@@ -7,7 +7,7 @@
 + [Redis client interface](https://redis.io/docs/latest/develop/connect/cli/)
 + [Redis client for Node JS](https://github.com/redis/node-redis)
 + [Kue](https://github.com/Automattic/kue) deprecated but still use in the industry
-+ Learning Objectives
+# Learning Objectives
 + At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 + How to run a Redis server on your machine
@@ -31,7 +31,7 @@
 and…
 + Don’t forget to run $ npm install when you have the package.json
 
-#### This project contains tasks for learning to create a queueing system in JavaScript.
+# This project contains tasks for learning to create a queueing system in JavaScript.
 
 ## Tasks To Complete
 
